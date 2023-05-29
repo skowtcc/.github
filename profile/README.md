@@ -8,10 +8,12 @@
 
 ## Repositories
 
-- [**wanderer-moe/site**][Site]: wanderer.moe's source code!
-- [**wanderer-moe/api**][API]: wanderer.moe's API/CDN!
+- ⚙️ [**wanderer-moe/site**][Site]: source code for the website
+- 📦️ [**wanderer-moe/api**][API]: source code for the API/CDN
+- 📈 [**wanderer-moe/status**][Status]: source code for the uptime page
 
 [Banner]: https://files.catbox.moe/ye77zq.svg
 [wanderer.moe]: https://wanderer.moe
 [Site]: https://github.com/wanderer-moe/site
 [API]: https://github.com/wanderer-moe/api
+[Status]: https://github.com/wanderer-moe/status

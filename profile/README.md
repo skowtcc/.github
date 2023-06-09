@@ -2,7 +2,7 @@
 
 ![Banner]
 
-[**wanderer.moe**][wanderer.moe] is a **centralized database** of various game assets — powered by [**SvelteKit**](https://kit.svelte.dev/), [**TailwindCSS**](https://tailwindcss.com/), and [**Node.js**](https://nodejs.org/en) (hosted with [**Cloudflare**](https://www.cloudflare.com/) Pages, Workers, R2 and KV).
+[**wanderer.moe**][wanderer.moe] is a **centralized database** of various game assets — powered by [**SvelteKit**](https://kit.svelte.dev/), [**TailwindCSS**](https://tailwindcss.com/), and [**Node.js**](https://nodejs.org/en) (hosted with [**Cloudflare**](https://www.cloudflare.com/) Pages, Workers, R2 and D1).
 
 </div>
 

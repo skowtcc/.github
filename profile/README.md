@@ -16,7 +16,6 @@
 | :------- | :------------------------------------------------- | :------------------------------------------------- |
 | [site]   | The **primary website**                                | `SvelteKit`, `Cloudflare Pages`, `TailwindCSS`, `Node.js`  |
 | [api]    | API for **retrieving assets from the CDN, discord contributors, and other tools** for the site     | `Typescript`, `Cloudflare Workers`, `Cloudflare D1`                 |
-| [cdn]    | **All assets** which are used on the site        | `Cloudflare R2`                                      |
 | [status] | A **status page for all services** to do with wanderer.moe | `Github Actions and Workflows`                   |
 | [i18n]   | **Localizations** for wanderer.moe's website            | `Crowdin`                                            |
   

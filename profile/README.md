@@ -12,11 +12,13 @@
 
 <div align="center">
 
-| Name     | Description                                        | Technologies                                       |
-| :------- | :------------------------------------------------- | :------------------------------------------------- |
-| [site]   | The **primary website**                                | `NextJS`, `Cloudflare Pages`, `TailwindCSS` |
-| [api]    | API for the site, used for quering/uploading assets, authentication and OC Generator data    | `Hono`, `Cloudflare Workers`, `Cloudflare R2`, `Drizzle`, `Lucia`, `Turso`                 |
-| [i18n]   | **Localizations** for wanderer.moe's website            | `Crowdin`                                            |
+| Name              | Description                                                                                               | Technologies                                                                       |
+| :---------------- | :-------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------|
+| [site]            | The **frontend** for the site                                                                             | NextJS, Cloudflare Pages, TailwindCSS                                              |
+| [api]             | API for the site, used for **quering/uploading assets, authentication and fetching OC Generator data**    | Hono, Cloudflare Workers, Cloudflare R2, Durable Objects, DrizzleORM, Lucia, Turso |
+| [img-resizer]     | **128px Image Resizer** for assets                                                                        | Rust, Cloudflare Workers                                                           |
+| [oc-generators]   | JSON files containing **OC Generator Data** synced with R2                                                | Cloudflare R2                                                                      |
+| [i18n]            | **Localizations** for wanderer.moe's website                                                              | Crowdin                                                                            |
   
 </div>
 
@@ -25,6 +27,8 @@
 [Site]: https://github.com/wanderer-moe/site
 [API]: https://github.com/wanderer-moe/api
 [CDN]: https://github.com/wanderer-moe/cdn
+[img-resizer]: https://github.com/wanderer-moe/img-resizer
+[oc-generators]: https://github.com/wanderer-moe/oc-generators
 [i18n]: https://github.com/wanderer-moe/i18n
 [Discord]: https://img.shields.io/discord/982385887000272956?color=323379&label=discord&style=for-the-badge
 [License]: https://img.shields.io/static/v1?label=License&message=GPL-3&color=323379&style=for-the-badge

@@ -15,7 +15,7 @@
 | Name              | Description                                                                                               | Technologies                                                                       |
 | :---------------- | :-------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------|
 | [site]            | The **frontend** for the site                                                                             | NextJS, Cloudflare Pages, TailwindCSS                                              |
-| [api]             | API for the site, used for **quering/uploading assets, authentication and fetching OC Generator data**    | Hono, Cloudflare Workers, Cloudflare R2, Durable Objects, DrizzleORM, Lucia, Turso |
+| [api]             | API for the site, used for **quering/uploading assets, authentication and fetching OC Generator data**    | Hono, Cloudflare Workers, Cloudflare R2, KV, Durable Objects, DrizzleORM, Lucia, Turso |
 | [img-resizer]     | **128px Image Resizer** for assets                                                                        | Rust, Cloudflare Workers                                                           |
 | [oc-generators]   | JSON files containing **OC Generator Data** synced with R2                                                | Cloudflare R2                                                                      |
 | [i18n]            | **Localizations** for wanderer.moe's website                                                              | Crowdin                                                                            |

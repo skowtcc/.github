@@ -16,7 +16,7 @@
 | :---------------- | :-------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------|
 | [site]            | The **frontend** for the site                                                                             | NextJS, Cloudflare Pages, TailwindCSS                                              |
 | [api]             | API for the site, used for **quering/uploading assets, authentication and fetching OC Generator data**    | Hono, Cloudflare Workers, Cloudflare R2, KV, Durable Objects, DrizzleORM, Lucia, Turso |
-| [img-resizer]     | **128px Image Resizer** for assets                                                                        | Rust, Cloudflare Workers                                                           |
+| [img-resizer]     | Public image resizer API - Used for resizing all Images used on the site.                                 | Rust, Cloudflare Workers                                                           |
 | [oc-generators]   | JSON files containing **OC Generator Data** synced with R2                                                | Cloudflare R2                                                                      |
 | [i18n]            | **Localizations** for wanderer.moe's website                                                              | Crowdin                                                                            |
   

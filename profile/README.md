@@ -38,4 +38,4 @@
 [translators]: https://wanderer.moe/contributors
 [dromzeh]: https://dromzeh.dev/
 [enscribe]: https://enscribe.dev/
-[sky]: https://github.com/kyaasky
+[sky]: https://github.com/alluding

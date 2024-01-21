@@ -17,7 +17,6 @@
 | [site]                        | The **frontend** for the site                                                                             | NextJS, Cloudflare Pages, TailwindCSS                                                  | [enscribe], [dromzeh]                  |
 | [api]                         | API for the site, used for **quering/uploading assets, authentication and fetching OC Generator data**    | Hono, Cloudflare Workers, Cloudflare R2, DrizzleORM, Lucia, Turso                      | [dromzeh]                              |
 | [img-resizer]                 | Public image resizer API. Used for resizing all Images used on the site.                                  | Rust, Cloudflare Workers                                                               | [dromzeh]                              |
-| [oc-generators]               | JSON files containing **OC Generator Data** synced with R2                                                | Cloudflare R2                                                                          | [dromzeh]                              |
 | [reverse1999-decrypt]         | Bundles decryptor for a certain game                                                                      | Go                                                                                     | [sky], [dromzeh]                       |
 | [i18n]                        | **Localizations** for wanderer.moe's website                                                              | Crowdin                                                                                | [translators], [dromzeh]               |
 
@@ -30,7 +29,6 @@
 [CDN]: https://github.com/wanderer-moe/cdn
 [img-resizer]: https://github.com/wanderer-moe/img-resizer
 [reverse1999-decrypt]: https://github.com/wanderer-moe/reverse1999-decrypt
-[oc-generators]: https://github.com/wanderer-moe/oc-generators
 [i18n]: https://github.com/wanderer-moe/i18n
 [Discord]: https://img.shields.io/discord/982385887000272956?color=323379&label=discord&style=for-the-badge
 [License]: https://img.shields.io/static/v1?label=License&message=GPL-3&color=323379&style=for-the-badge

@@ -14,10 +14,10 @@
 
 | Name                          | Description                                                                                               | Technologies                                                                           | Core Team                              |
 | :---------------------------- | :-------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------| :--------------------------------------|
-| [site]                        | The **frontend** for the site                                                                             | NextJS, Cloudflare Pages, TailwindCSS                                                  | [enscribe], [dromzeh]                  |
-| [api]                         | API for the site, used for **quering/uploading assets, authentication and fetching OC Generator data**    | Hono, Cloudflare Workers, Cloudflare R2, DrizzleORM, Lucia, Turso                      | [dromzeh]                              |
-| [img-resizer]                 | Public image resizer API. Used for resizing all Images used on the site.                                  | Rust, Cloudflare Workers                                                               | [dromzeh]                              |
-| [reverse1999-decrypt]         | Bundles decryptor for a certain game                                                                      | Go                                                                                     | [sky], [dromzeh]                       |
+| [site]                        | The frontend for the site                                                                                 | NextJS, Cloudflare Pages, TailwindCSS                                                  | [enscribe], [dromzeh]                  |
+| [api]                         | API/Backend for the site                                                                                  | Hono, CF R2/DO, Drizzle, Lucia, Turso                                                  | [dromzeh]                              |
+| [img-resizer]                 | Public image resizer API                                                                                  | Rust                                                                                   | [dromzeh]                              |
+| [reverse1999-decrypt]         | Bundles decryptor for R1999                                                                               | Go                                                                                     | [alluding], [dromzeh]                       |
 | [i18n]                        | **Localizations** for wanderer.moe's website                                                              | Crowdin                                                                                | [translators], [dromzeh]               |
 
 </div>
@@ -36,4 +36,4 @@
 [translators]: https://wanderer.moe/contributors
 [dromzeh]: https://dromzeh.dev/
 [enscribe]: https://enscribe.dev/
-[sky]: https://github.com/alluding
+[alluding]: https://github.com/alluding

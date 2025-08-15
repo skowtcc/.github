@@ -18,7 +18,7 @@ Created by [dromzeh], with help from [enscribe] & [populated]
 | [api]                         | API/Backend                                                                                | Hono, CF Workers/R2/DO, Drizzle, better-auth, Turso                                                  | [dromzeh]                              |
 | [img-resizer]                 | Public image resizer API (not used)                                                                                  | Rust                                                                                   | [dromzeh]                              |
 | [reverse1999-decrypt]         | Bundles decryptor for R1999                                                                               | Go                                                                                     | [populated], [dromzeh]                       |
-| [i18n]                        | Old localizations for wanderer.moe's website                                                              | Crowdin                                                                                | translators, [dromzeh]               |
+| [i18n]                        | Old website localizations                                                               | Crowdin                                                                                | translators, [dromzeh]               |
 
 </div>
 

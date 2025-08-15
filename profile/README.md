@@ -1,8 +1,8 @@
 <div>
 
-[![Discord]](https://discord.wanderer.moe/) [![License]](https://www.gnu.org/licenses/gpl-3.0.en.html#license-text)
+[![Discord]](https://discord.gg/noid) [![License]](https://www.gnu.org/licenses/gpl-3.0.en.html#license-text)
 
-[**wanderer.moe**][wanderer.moe] is a comprehensive game asset database that's community-driven and free for everyone.
+[**skowt.cc**][skowt.cc] is a comprehensive game asset database that's community-driven and free for everyone.
 
 Created by [dromzeh], with help from [enscribe] & [populated]
 
@@ -22,15 +22,15 @@ Created by [dromzeh], with help from [enscribe] & [populated]
 
 </div>
 
-[wanderer.moe]: https://wanderer.moe
-[Site]: https://github.com/wanderer-moe/site
-[API]: https://github.com/wanderer-moe/api
-[CDN]: https://github.com/wanderer-moe/cdn
-[img-resizer]: https://github.com/wanderer-moe/img-resizer
-[reverse1999-decrypt]: https://github.com/wanderer-moe/reverse1999-decrypt
-[i18n]: https://github.com/wanderer-moe/i18n
-[Discord]: https://img.shields.io/discord/982385887000272956?color=323379&label=discord&style=for-the-badge
-[License]: https://img.shields.io/static/v1?label=License&message=GPL-3&color=323379&style=for-the-badge
+[skowt.cc]: https://skowt.cc
+[Site]: https://github.com/skowtcc/site
+[API]: https://github.com/skowtcc/api
+[CDN]: https://github.com/skowtcc/cdn
+[img-resizer]: https://github.com/skowtcc/img-resizer
+[reverse1999-decrypt]: https://github.com/skowtcc/reverse1999-decrypt
+[i18n]: https://github.com/skowtcc/i18n
+[Discord]: https://img.shields.io/discord/982385887000272956?color=141414&label=discord&style=for-the-badge
+[License]: https://img.shields.io/static/v1?label=License&message=GPL-3&color=141414&style=for-the-badge
 
 [dromzeh]: https://dromzeh.dev/
 [enscribe]: https://enscribe.dev/

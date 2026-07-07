@@ -8,13 +8,13 @@ Created and maintained by [dromzeh], with help from [enscribe] & [populated]
 
 ---
 
-
-Some repositories the project relies on are open-source for transparency.
+Our [Monorepo][Monorepo] behind everything is source-available, plus various other repositories for transparency purposes.
 
 </div>
 
 [skowt.cc]: https://skowt.cc
-[Discord]: https://img.shields.io/discord/982385887000272956?logo=discord&logoColor=eee&label=Discord&labelColor=464ce5&color=fff&cacheSeconds=43200
+[Discord]: https://shieldcn.dev/discord/members/noid.svg?variant=secondary&size=xs
+[Monorepo]: https://github.com/skowtcc/monorepo
 
 [dromzeh]: https://dromzeh.dev/
 [enscribe]: https://enscribe.dev/
